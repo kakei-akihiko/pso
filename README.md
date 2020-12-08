@@ -103,4 +103,4 @@ A  B  C  D  E  F  G  H  Index
 
 ## ソースコード
 
-[GitHub](https://github.com/kakei-akihiko/pso)
+[GitHub](https://github.com/kakei-akihiko/pso/blob/master/Othello.ps1)
